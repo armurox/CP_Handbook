@@ -1,0 +1,2 @@
+# The Competitive Programmer's Handbook
+The Competitive Programmer's Handbook by Antti Laaksonen is a fantastic resource. This repo records some of the code I'm writing while going through the book. They will include snippets from the book, along with some mixes and matches as I play around and extend some of the ideas.
